@@ -1,0 +1,104 @@
+.main{
+    background-color: whitesmoke;
+    height: 60px;
+    font-weight: bold;
+    
+}
+ol{
+    float: left;
+}
+ol li{
+    float: left;
+    width: 90px;
+   position: relative;
+    left: 170%;
+ list-style-type: none;
+}
+ol li a{
+       text-decoration: none;
+       color: black;
+}
+.background{
+    background-size: cover;
+    height: 900px;
+    width: 1328px;
+    margin: 0%;
+    padding: 0%;
+}
+.info{
+    position: absolute;
+    left: 7%;
+    top: 25%;
+    letter-spacing: 2px;
+    line-height: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+   font-size: 18px; 
+   left: 20%;
+   color: whitesmoke;
+
+}
+h1{
+    color: rgb(182, 19, 182);
+    font-size: 60px;
+}
+h2{
+    color: whitesmoke;
+    font-size: 30px;
+    font-style: normal;
+}
+h4{
+    text-transform: capitalize;
+    font-style: normal;
+    color: whitesmoke;
+}
+.info a{
+    text-decoration: none;
+    color: black;
+    background-color: whitesmoke;
+    margin: 20px ;
+    padding: 12px 12px;
+    border-radius: 10px;
+    display: inline-block;
+    font-weight: bold;
+}
+.info a:hover{
+    background-color: red;
+    color: whitesmoke;
+}
+.fa-instagram{
+    position: absolute;
+    top: 65%;
+   margin-left: 9%;
+   color: whitesmoke;
+}
+.fa-linkedin{
+   position: absolute;
+   top: 65%;
+   margin-left: 12%;
+   color: whitesmoke;
+}
+.fa-github{
+    position: absolute;
+    top: 65%;
+    color: whitesmoke;
+    margin-left: 15%;
+    
+}
+.fa-user{
+    position: absolute;
+    top: 65%;
+    margin-left: 18%;
+    color: whitesmoke;
+}
+.name h3{
+      position: absolute;
+    text-transform: uppercase;
+    margin-top: -50px;
+    margin-left: -60px;
+    color: black;
+  
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; ;
+}
